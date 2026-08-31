@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local configuration / secrets
+.env
+
+# OS / IDE
+.DS_Store
+._*
+*:Zone.Identifier
+.vscode/
+.idea/
